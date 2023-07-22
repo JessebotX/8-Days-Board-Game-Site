@@ -1,3 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://8daysgameprototype.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '8 Days - Board Game'
+
+[markup.goldmark.renderer]
+unsafe= true
