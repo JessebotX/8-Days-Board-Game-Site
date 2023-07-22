@@ -5,8 +5,8 @@ title: 8 Days
 # 8 Days {.text-center}
 
 > **8 Days** is a cooperative survival board game where players must
-> explore and scavenge through a war-torn city overrun by the undead
-> until help arrives in 8 days.
+> explore and scavenge through a ruined city overrun by the undead until
+> help arrives in 8 days.
 
 <iframe width="560" height="315" class="yt-video"
     src="https://www.youtube-nocookie.com/embed/qQnWzCLpuT4" title="YouTube
