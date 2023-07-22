@@ -25,3 +25,13 @@ Researchers of Surelta were making an antidote for zombie attacks which was leak
 Due to Delray’s far South location, it was divided by multiple water bodies and rescue from large countries was far far away. The way to pull out of this attack was a special weapon attack on zombies which killed them right away. Countries in the Northeast had such weapons and it will take 8 days for them to reach Delray.
 
 The journey won’t be easy it can lead to anything we don’t know how many zombies are out there and what strengths they hold the only chance of saving is to protect yourself for the next 8 days until rescue arrives. The question is, “Do you have what it takes”? 
+
+# TODO Inspiration
+* Main: This War of Mine
+* Combat: Pokemon/XCOM
+
+# Game Pillars
+* **What?** Escape the ruined city overrun by the undead
+* **How?** Exploring the map, obtaining sufficient resources and fending
+  off against hostile NPCs and zombies
+* **Why?** In order to survive until the end of the 8th day
