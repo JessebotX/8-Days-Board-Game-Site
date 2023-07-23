@@ -5,7 +5,6 @@ title: Gallery
 # Gallery
 
 ## Pieces
-
 <div class="pieces">
   <img src="/pieces/ammo1.png" alt="bullet">
   <img src="/pieces/arrow1.jpg" alt="arrow">
