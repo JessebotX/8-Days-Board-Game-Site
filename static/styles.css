@@ -110,8 +110,8 @@ blockquote p {
 
 .pieces {
 	display: grid;
-	grid-template-columns: repeat(4, minmax(0, 1fr));
-	justify-content: center;
+	grid-template-columns: repeat(4, minmax(0, 1fr));	
+justify-content: center;
 	align-items: center;
 	gap: 1rem;
 }
@@ -137,4 +137,25 @@ blockquote p {
 .pieces img {
 	height: auto;
 	max-width: 200px;
+}
+
+.resources img {
+	max-width: 600px;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
+
+.pieces-cards {
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+@media (max-width: 900px) {
+	.pieces-cards {
+		grid-template-columns: repeat(1, minmax(0, 1fr));
+	}
+}
+
+.pieces-cards img {
+	max-width: 500px;
 }
