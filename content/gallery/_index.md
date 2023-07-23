@@ -33,23 +33,23 @@ title: Gallery
     <br><small>Back of other resource cards</small>
   </div>
 
-  <img src="/cards/resources/assault-rifle.png">
-  <img src="/cards/resources/axe.png">
-  <img src="/cards/resources/backpack.png">
-  <img src="/cards/resources/bandage.png">
-  <img src="/cards/resources/bow.png">
-  <img src="/cards/resources/cloth.png">
-  <img src="/cards/resources/food-1.png">
-  <img src="/cards/resources/food-2.png">
-  <img src="/cards/resources/food-3.png">
-  <img src="/cards/resources/knife.png">
-  <img src="/cards/resources/lumber.png">
-  <img src="/cards/resources/pistol.png">
-  <img src="/cards/resources/revolver.png">
-  <img src="/cards/resources/scrap.png">
-  <img src="/cards/resources/sniper.png">
-  <img src="/cards/resources/spear.png">
-  <img src="/cards/resources/torch.png">
+  <img src="/cards/resources/assault-rifle.jpg">
+  <img src="/cards/resources/axe.jpg">
+  <img src="/cards/resources/backpack.jpg">
+  <img src="/cards/resources/bandage.jpg">
+  <img src="/cards/resources/bow.jpg">
+  <img src="/cards/resources/cloth.jpg">
+  <img src="/cards/resources/food-1.jpg">
+  <img src="/cards/resources/food-2.jpg">
+  <img src="/cards/resources/food-3.jpg">
+  <img src="/cards/resources/knife.jpg">
+  <img src="/cards/resources/lumber.jpg">
+  <img src="/cards/resources/pistol.jpg">
+  <img src="/cards/resources/revolver.jpg">
+  <img src="/cards/resources/scrap.jpg">
+  <img src="/cards/resources/sniper.jpg">
+  <img src="/cards/resources/spear.jpg">
+  <img src="/cards/resources/torch.jpg">
 </div>
 
 ### Deck of Tiles
