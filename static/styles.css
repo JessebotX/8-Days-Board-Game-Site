@@ -139,14 +139,6 @@ justify-content: center;
 	max-width: 200px;
 }
 
-.resources img {
-	max-width: 700px;
-	width: 100%;
-	height: auto;
-	display: block;
-	margin: 0 auto;
-}
-
 .pieces-cards {
 	grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -159,4 +151,8 @@ justify-content: center;
 
 .pieces-cards img {
 	max-width: 500px;
+}
+
+.pieces-resources img {
+	width: 700px;
 }
