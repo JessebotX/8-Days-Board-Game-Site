@@ -3,7 +3,6 @@ title: Gallery
 ---
 
 # Gallery
-
 ## Pieces
 <div class="pieces">
   <img src="/pieces/ammo1.png" alt="bullet">
