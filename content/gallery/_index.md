@@ -3,6 +3,8 @@ title: Gallery
 ---
 
 # Gallery
+* [Download ALL cards](/cards/cards.zip)
+
 ## Pieces
 <div class="pieces">
   <img src="/pieces/ammo1.png" alt="bullet">
