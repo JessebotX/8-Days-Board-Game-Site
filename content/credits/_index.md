@@ -3,9 +3,8 @@ title: Acknowledgements
 ---
 
 # Trailer
-* All media are stock resources from getty images, we are free to use
-  them for anything non-commerce.
-* Generated with <https://www.idomoo.ai/>
+* Video was completely created using generative ai
+  https://www.idomoo.ai/ from text prompts
 
 # Images
 * Tile/Tile events: Midjourney (<https://www.midjourney.com>)
