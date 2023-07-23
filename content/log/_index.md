@@ -48,3 +48,6 @@ title: Playtesting/Meeting Log
 * Included snowstorm mechanic in order to force players off of a tile
   (prevent camping and encourage moving)
 * Reduced board size to 7 wide and 7 tall
+
+# Contributions:
+* [Contribution](/contribution.pdf)
