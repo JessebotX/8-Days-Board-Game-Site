@@ -2,7 +2,10 @@
 title: 8 Days
 ---
 
+
 # 8 Days {.text-center}
+
+<img src="/map_final.png" alt="image of the board" class="image-center">
 
 > **8 Days** is a bleak and difficult cooperative survival board game
 > where players must explore and scavenge through a ruined city overrun
