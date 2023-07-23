@@ -47,4 +47,4 @@ title: Playtesting/Meeting Log
   consideration of the 10 sided die that will be used
 * Included snowstorm mechanic in order to force players off of a tile
   (prevent camping and encourage moving)
-* Reduced board size to 6 wide and 6 tall
+* Reduced board size to 7 wide and 7 tall
