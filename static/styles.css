@@ -55,6 +55,11 @@ header {
 	margin-top: 0.5rem;
 	padding: 0;
 	font-size: 7rem;
+	transition: 0.12s ease;
+}
+
+.header-title:hover {
+	background: red;
 }
 
 .header-title-sub {
