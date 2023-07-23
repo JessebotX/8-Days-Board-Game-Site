@@ -99,6 +99,11 @@ blockquote p {
 	padding: 2rem;
 }
 
+main a {
+	color: red;
+	transition: 0.1s ease;
+}
+
 .yt-video {
 	display: block;
 	margin: 0 auto;

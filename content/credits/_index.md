@@ -9,4 +9,6 @@ title: Acknowledgements
 
 # Images
 * Tile/Tile events: Midjourney (<https://www.midjourney.com>)
-* Pieces: Bing AI
+* Pieces: Bing AI (<https://www.bing.com/?/ai>)
+* Weapon/Resources: Bing AI (<https://www.bing.com/?/ai>)
+* Icons used for card backs: <https://www.vecteezy.com/free-vector/raw-material-icon>
