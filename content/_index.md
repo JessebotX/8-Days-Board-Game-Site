@@ -26,9 +26,30 @@ Due to Delray’s far South location, it was divided by multiple water bodies an
 
 The journey won’t be easy it can lead to anything we don’t know how many zombies are out there and what strengths they hold the only chance of saving is to protect yourself for the next 8 days until rescue arrives. The question is, “Do you have what it takes”? 
 
-# TODO Inspiration
-* Main: This War of Mine
-* Combat: Pokemon/XCOM
+# Inspiration
+## This War of Mine
+The game "This War of Mine" is the main inspiration for this game. In
+This War of Mine, you manage a group of civilians in a war-torn city in
+hopes to survive until the government calls a ceasefire to the war,
+which usually happens between day 30 - 60. Resources and weapons are
+scarce and civilians would often contract sickness, suffer from
+depression, be constantly hungry and face countless moral dilemmas. In
+our game, the goal and the victory condition are very similar: survive
+for 8 days until rescue arrives. Along with that, This War of Mine has a
+big influence in the atmosphere and tone of the game. The world is
+bleak, resources are scarce and players will often find themselves
+starving and injured.
+
+## Pokemon/XCOM/Turn-based action games
+Games like Pokemon, XCOM and other turn-based action games are the main
+inspiration for the combat system of this game. Players will often have
+a chance that they'll encounter either zombies or hostile NPCs. Players
+will take turns exchanging attacks towards these hostile
+monsters. Similar to games like Pokemon, there is an option for players
+to flee from combat. Like XCOM and most turn-based action games,
+accuracy plays an important part of the combat system. All range weapons
+have a chance to either land a normal shot, bad shots and critical hits,
+while all melee weapons have chances of missing and critical hits.
 
 # Game Pillars
 * **What?** Escape the ruined city overrun by the undead
